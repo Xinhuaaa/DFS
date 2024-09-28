@@ -1,7 +1,7 @@
 export const seo = {
-  title: 'Cali Castle | 开发者、设计师、细节控、创始人',
+  title: 'Cali Castle | 开发者、摄影师、细节控、技术党',
   description:
-    '我叫 Cali，一名开发者，设计师，细节控，同时也是佐玩创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。',
+    '我是DFStudio，一个充满灵感与活力的创作团队。我们致力于打造激发创意的氛围，鼓励团队成员捕捉动人瞬间 ，创作触动人心的影像作品。我们热爱摄影、艺术、创新、生活以及在光影世界中不断探索。',
   url: new URL(
     process.env.NODE_ENV === 'production'
       ? 'https://cali.so'
